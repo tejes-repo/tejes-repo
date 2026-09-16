@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm P TEJESWAR REDDY</h1>
+<h3 align="center">☁️ Cloud Support Engineer | AWS | Linux | Networking | DevOps</h3>
 
-<!--
-**tejes-repo/tejes-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejeswar-reddy-3683a7415/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tejeswarreddy00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-555555?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejes-repo&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/tejes-repo?label=Followers&style=social" />
+</p>
