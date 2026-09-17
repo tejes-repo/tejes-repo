@@ -102,4 +102,83 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+</p>
+
+---
+
+### 🏗️ Featured Projects
+
+#### 🔹 [AWS Blue-Green Canary Deployment](https://github.com/tejes-repo/aws-blue-green-canary-deployment)
+
+`AWS` `Blue-Green Deployment` `Canary Deployment` `DevOps`
+
+Implemented a production-style deployment strategy using **Blue-Green and Canary deployments on AWS** to release new application versions with minimal downtime and controlled traffic shifting. The project demonstrates safe releases, rollback strategies, and gradual production validation.
+
+#### 🔹 [AWS S3 Multipart Upload](https://github.com/tejes-repo/aws-s3-multipart-upload-github-project)
+
+`Amazon S3` `Multipart Upload` `AWS`
+
+Built an **AWS S3 Multipart Upload** solution for handling large file uploads efficiently by splitting files into smaller parts and uploading them independently. This improves upload reliability and performance while supporting large-scale file transfer scenarios.
+
+#### 🔹 [MySQL to PostgreSQL Migration Using AWS](https://github.com/tejes-repo/mysql-postgresql-migration-using-aws)
+
+`MySQL` `PostgreSQL` `AWS` `Database Migration`
+
+Implemented a **database migration workflow from MySQL to PostgreSQL using AWS services**. The project focuses on schema and data migration, compatibility considerations, validation, and reducing downtime during database modernization.
+
+#### 🔹 [AWS S3 Lambda RDS Registration](https://github.com/tejes-repo/aws-s3-lambda-rds-registration)
+
+`Amazon S3` `AWS Lambda` `Amazon RDS` `Serverless`
+
+Built a **serverless event-driven architecture** where an object uploaded to Amazon S3 triggers an AWS Lambda function that processes the event and registers the required information in Amazon RDS. This project demonstrates event-driven automation, serverless computing, and AWS service integration.
+
+#### 🔹 [AWS WordPress RDS Blue-Green Deployment](https://github.com/tejes-repo/aws-wordpress-rds-blue-green)
+
+`WordPress` `Amazon RDS` `Blue-Green Deployment` `AWS`
+
+Designed a **WordPress deployment architecture using Amazon RDS with Blue-Green deployment principles** to enable safer application and database changes. The project demonstrates production deployment practices, database environment switching, reduced downtime, and rollback capability.
+
+---
+
+### 📜 Certifications & Achievements
+
+- ✅ AWS Solutions Architect – Associate (SAA-C03) — *Exam Preparation*
+- ✅ AWS Cloud & DevOps Training — Naresh IT, Hyderabad
+- ✅ Introduction to Linux — Linux Foundation
+- 🏆 Hackathon Winner — 3RD PLACE SIH -2023
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=tejes-repo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tejes-repo&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tejes-repo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejes-repo&theme=tokyo-night&hide_border=true" width="48%" />
+</p>
+
+---
+
+---
+
+### 🎓 Education
+
+**BTECH– Computer Science** |PURSUING| AUGUST 2023 – JUNE 2027
+CMR ENGINEERING COLLEGE ,HYDERABAD
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejeswar-reddy-3683a7415/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tejeswarreddy00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+918310678216"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐️ Open to entry-level Cloud Support / Cloud Engineer opportunities — let's build something reliable and scalable together!</i></p>
  
